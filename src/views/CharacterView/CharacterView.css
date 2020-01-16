@@ -1,0 +1,26 @@
+
+
+.button{
+ margin-top:20px;
+}
+
+.select{
+    margin-bottom:0px;
+}
+
+
+.errorGender{
+    margin-bottom:0px;
+    color:#dc3545;
+}
+
+.form{
+    width:500px; 
+    margin:auto
+}
+
+
+    .required:before {
+        content:" *";
+        color: blue;
+    }
